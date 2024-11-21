@@ -1,0 +1,14 @@
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.AssemblyInfoInputs.cache
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.AssemblyInfo.cs
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.csproj.CoreCompileInputs.cache
+/home/alex_lis/Dev/C_sharp/bin/Debug/net7.0/C_sharp
+/home/alex_lis/Dev/C_sharp/bin/Debug/net7.0/C_sharp.deps.json
+/home/alex_lis/Dev/C_sharp/bin/Debug/net7.0/C_sharp.runtimeconfig.json
+/home/alex_lis/Dev/C_sharp/bin/Debug/net7.0/C_sharp.dll
+/home/alex_lis/Dev/C_sharp/bin/Debug/net7.0/C_sharp.pdb
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.dll
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/refint/C_sharp.dll
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.pdb
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/C_sharp.genruntimeconfig.cache
+/home/alex_lis/Dev/C_sharp/obj/Debug/net7.0/ref/C_sharp.dll
